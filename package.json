@@ -1,6 +1,6 @@
 {
   "name": "warehouse-web-app-tr",
-  "version": "2023.2",
+  "version": "2023.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
